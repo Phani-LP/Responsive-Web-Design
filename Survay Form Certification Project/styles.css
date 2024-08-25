@@ -1,0 +1,39 @@
+
+
+h1{
+    color:navy;
+  }
+  
+  html{
+    background:linear-gradient(45deg,rgb(125,127,0), rgb(120,185,0));
+  }
+  
+  body{
+    font-family:calibri;
+  }
+  
+  .container{
+    margin:0 auto;
+    max-width:800px;
+    min-width:300px;
+    width:490px;
+    font-size:20px;
+    border:2px soild black;
+  }
+  
+  #topics{
+    margin:0 10px;
+  }
+  
+  #name, #email, #number{
+    display:block;
+    width:100%;
+    background-color:black;
+    border:none;
+    padding:10px;
+    color:white;
+    border-radius:5px;
+  
+  }
+  
+  
